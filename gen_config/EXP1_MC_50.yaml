@@ -1,0 +1,20 @@
+Seed: 3672
+
+Assortment:
+  scheme: "Abundant"
+  N_prod: 50
+
+TrueModel:
+  model: "MC"
+  N_prod: 50
+
+  Sigma: 4
+  Clustered: True
+  Cluster_num: 10
+  Cluster_distance: 2
+
+
+DataSet:
+  name: "EXP1_MC_50"
+  N_sample: 200000
+  path: "EXP1_datasets/MC/NProd_50"

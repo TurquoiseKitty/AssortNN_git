@@ -1,0 +1,3 @@
+dataset name : EXP1_MNL_20
+sample amount : 200000
+config file : gen_config/EXP1_MNL_20.yaml

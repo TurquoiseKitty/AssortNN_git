@@ -1,0 +1,16 @@
+Seed: 6893
+
+Assortment:
+  scheme: "Abundant"
+  N_prod: 50
+
+TrueModel:
+  model: "NP"
+  N_prod: 50
+  
+  N_mix: 20
+
+DataSet:
+  name: "EXP1_NP_50"
+  N_sample: 200000
+  path: "EXP1_datasets/NP/NProd_50"

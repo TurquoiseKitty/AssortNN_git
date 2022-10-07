@@ -1,0 +1,16 @@
+Seed: 3672
+
+Assortment:
+  scheme: "Abundant"
+  N_prod: 20
+
+TrueModel:
+  model: "MNL"
+  N_prod: 20
+  
+  Sigma: 1.
+
+DataSet:
+  name: "EXP1_MNL_20"
+  N_sample: 200000
+  path: "EXP1_datasets/MNL/NProd_20"

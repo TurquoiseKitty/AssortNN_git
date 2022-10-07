@@ -1,0 +1,3 @@
+model type : NP
+product number : 50
+mixture number : 20

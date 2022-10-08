@@ -69,7 +69,7 @@ def mass_run():
 
                 ## we use 20 seeds to grep data
 
-                for seed in range(1234, 1235):
+                for seed in range(1234, 1254):
 
                     for net in ["VanillaMNL", "AssortmentNN", "ResAssortNN"]:
 

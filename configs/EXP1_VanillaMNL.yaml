@@ -34,7 +34,7 @@ exp_params:
   scheduler_gamma: 0.99
 
   device: "gpu"
-  max_epochs: 100
+  max_epochs: 50
 
 logging_params:
 

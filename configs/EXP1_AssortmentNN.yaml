@@ -4,7 +4,7 @@ model_params:
   Nprod_Veclen: 20
 
   Num_CrossEffectLayer: 1
-  Cross_midLayers: [100]
+  Cross_midLayers: [20]
 
   
   
@@ -30,8 +30,8 @@ data_params:
 exp_params:
   exp_seed: 1234
 
-  train_batch_size: 10
-  valid_batch_size: 10
+  train_batch_size: 100
+  valid_batch_size: 100
   LR: 0.0005
   weight_decay: 0.0
   scheduler_gamma: 0.99

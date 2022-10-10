@@ -99,9 +99,10 @@ def mass_run(demo = True):
 
                     continue
 
-                print("Model : ",net)
-                print("Data : "+data_source+"_"+str(data_size))
-                print("Data Amount : "+str(train_amount))
+                if demo:
+                    print("Model : ",net)
+                    print("Data : "+data_source+"_"+str(data_size))
+                    print("Data Amount : "+str(train_amount))
 
 
 
